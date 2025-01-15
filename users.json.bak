@@ -1,0 +1,125 @@
+[
+  {
+    "id": 1,
+    "nome": "João Manoel",
+    "whatsapp": "+5535999192942",
+    "email": "eujoao0315@gmail.com",
+    "receita": 18224.00,
+    "retido": 272.00,
+    "pendente": 0,
+    "saques": 1299.00,
+    "vendas": 5000,
+    "nivel": 10,
+    "conversao": 97.10,
+    "reembolso": 0,
+    "faturamento": [
+      {
+        "hoje": {
+          "madrugada": 272,
+          "manhã": 0,
+          "tarde": 0,
+          "noite": 0
+        },
+        "ontem": {
+          "madrugada": 15,
+          "manhã": 25,
+          "tarde": 35,
+          "noite": 45
+        },
+        "7dias": {
+          "segunda": 624,
+          "terça": 272,
+          "quarta": 395,
+          "quinta": 721,
+          "sexta": 30,
+          "sabado": 0,
+          "domingo": 0
+        },"30dias": {
+          "0-4": 1240.01,
+          "4-8": 9064,
+          "8-16": 2841,
+          "16-20": 743,
+          "20-24": 2999,
+          "24-28": 1000,
+          "30": 336.9
+        },
+        "90dias": {
+          "0-30": 1000,
+          "31-60": 2000,
+          "61-90": 3000
+        },
+        "periodotodo": {
+          "jan": 0,
+          "fev": 1,
+          "mar": 0,
+          "abr": 1,
+          "mai": 0,
+          "jun": 1,
+          "jul": 0,
+          "ago": 1,
+          "set": 0,
+          "out": 1,
+          "nov": 0,
+          "dez": 1
+        }
+      }
+    ],
+    "produtos": [
+      {
+        "id": 1,
+        "nome": "produto zk",
+        "ticket": 20000.81,
+        "links": "https://strivepay.web.app/produto/comprar"
+      },
+      {
+        "id": 2,
+        "nome": "produto 2",
+        "ticket": 272.90,
+        "links": "https://strivepay.web.app/produto/cassino"
+      }
+    ],
+    "porcentagem": [
+      {
+        "pix": 80,
+        "cartao": 0,
+        "bitcoin": 20
+      }
+    ],
+    "clientes": [
+      {
+        "id": 1,
+        "nome": "cliente 1",
+        "whatsapp": "+5535999192942",
+        "email": "cliente1@gmail.com",
+        "cpf": "00000000000",
+        "total": 200,
+        "origem": "instagram"
+      }
+    ],
+    "transacoes": [
+      {
+        "id_transacao": "123456789",
+        "valor": 150.00,
+        "data_criacao": "2025-01-07T10:30:00Z",
+        "status": "pendente",
+        "codigo_pix": "12345678abcdefg",
+        "chave_pix": "eujoao035@gmail.com",
+        "data_pagamento": null,
+        "meio_pagamento": "Pix",
+        "beneficiario_nome": "João Manoel",
+        "beneficiario_chave_pix": "eujoao035@gmail.com",
+        "beneficiario_cnpj": "12345678000195",
+        "historico_status": [
+          {
+            "status": "pendente",
+            "data": "2025-01-07T10:30:00Z"
+          },
+          {
+            "status": "concluída",
+            "data": "2025-01-07T11:00:00Z"
+          }
+        ]
+      }
+    ]
+  }
+]
